@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: box-sizing;
+}
+
+.body {
+  background-color: gray;
+  margin: 60px 30px;
+}
+
+.background {
+  background-color: rgb(219, 228, 255);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 700px;
+  max-width: auto;
+}
+
+.bg-content {
+  margin: 10px;
+  background-color: white;
+  display: inline;
+  align-content: center;
+  justify-content: center;
+  padding: 10px;
+  width: auto;
+  height: 500px;
+  border-radius: 3%;
+}
+
+.image {
+  border-radius: 10px;
+  height: 350px;
+  width: 300px;
+}
+
+.text {
+  padding-top: 10px;
+  text-align: center;
+}
+p {
+  padding-top: 10px;
+
+  color: gray;
+}
