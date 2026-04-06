@@ -39,6 +39,7 @@
 .text {
   padding-top: 10px;
   text-align: center;
+  max-width: 50%;
 }
 p {
   padding-top: 10px;
